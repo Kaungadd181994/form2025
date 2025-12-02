@@ -1,0 +1,5 @@
+{
+  "name": "SmartForm Integrator",
+  "description": "A dynamic form builder that simulates Google Sheets and Email integration using Gemini for intelligent data processing and Apps Script generation.",
+  "requestFramePermissions": []
+}
